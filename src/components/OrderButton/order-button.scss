@@ -1,0 +1,10 @@
+.order-button {
+    margin: 0 5px;
+    font-size: 12px;
+    cursor: pointer;
+
+    &--active {
+        padding-top: 2px;
+        cursor: default;
+    }
+}
